@@ -5,7 +5,8 @@ from random import randint
 
 
 def even1():
-    greet = 'Answer \"yes\" if the number is even, otherwise answer \"no\".'
+    greet = '''Answer \"yes\" if the number is even,
+otherwise answer \"no\".'''
     num1 = randint(1, 100)
     expression = num1
     if num1 % 2 == 0:

@@ -19,6 +19,7 @@ def engine(logika):
             print('Correct!')
         if user_answer != str(answer):
             counter = 0
-            print(f'\'{user_answer}\' is wrong answer ;(. Correct answer was \'{answer}\'.')
+            print(f'''\'{user_answer}\' is wrong answer ;(.
+Correct answer was \'{answer}\'.''')
             print(f'Let\'s try again, {name}!')
     print(f'Congratulations, {name}!')
