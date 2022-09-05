@@ -1,7 +1,11 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "first hexlet project"
+classifiers = [
+	"Programming Language :: Python"
+]
+repository = "https://github.com/MisterFlicker/python-project-49"
 authors = ["Andrey <lutecequantum@gmail.com>"]
 packages = [
   { include = "brain_games" },
