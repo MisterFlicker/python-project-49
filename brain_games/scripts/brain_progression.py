@@ -2,7 +2,6 @@
 
 import brain_games.scripts.logic
 from random import randint
-from random import choice
 
 
 def progression4():
@@ -12,10 +11,10 @@ def progression4():
     amount = randint(5, 15)
     end = start + step * amount
     change = randint(1, amount - 1)
-    expression = list(range(start,end,step))
+    expression = list(range(start, end, step))
     answer = expression[change]
     expression[change] = '..'
-    return (greet,expression,answer)
+    return (greet, expression, answer)
 
 
 def main():

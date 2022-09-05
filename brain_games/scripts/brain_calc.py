@@ -6,7 +6,7 @@ from random import choice
 
 
 def calc2():
-    greet = 'Answer \"yes\" if the number is even, otherwise answer \"no\".'
+    greet = 'What is the result of the expression?'
     num1 = randint(1, 100)
     num2 = randint(1, 100)
     oper = ['+', '-', '*']
