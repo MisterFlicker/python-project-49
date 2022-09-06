@@ -14,7 +14,7 @@ def progression4():
     expression = list(range(start, end, step))
     answer = expression[change]
     expression[change] = '..'
-    expression = '[%s]' % ', ' .join(map(str, expression))
+    expression = '[%s]' % ' ' .join(map(str, expression))
     expression = expression[1:-1]
     return (greet, expression, answer)
 
