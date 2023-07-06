@@ -37,7 +37,7 @@ Correct!
 
 Question: 5 6 7 8 9 .. 11 12
 
-Your answer: 10 # Пользователь вводит отвеn
+Your answer: 10 # Пользователь вводит ответ
 
 Correct!
 
