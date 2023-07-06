@@ -1,4 +1,4 @@
-### Hexlet tests and linter status:
+### Codeclimate status:
 <a href="https://codeclimate.com/github/MisterFlicker/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/50b7cdc90c8959ebe9ee/maintainability" /></a>
 
 *Asciinems for pass:*
