@@ -11,40 +11,28 @@
 
 ### Игры:
 
-- Калькулятор. Арифметические выражения, которые необходимо вычислить
-- Прогрессия. Поиск пропущенных чисел в последовательности чисел
-- Определение четного числа
-- Определение наибольшего общего делителя
-- Определение простого числа
+- Калькулятор. Арифметические выражения, которые необходимо вычислить. 'make brain-calc' для старта игры.
+- Прогрессия. Поиск пропущенных чисел в последовательности чисел. 'make brain-progression' для старта игры.
+- Определение четного числа. 'brain-even' для старта игры.
+- Определение наибольшего общего делителя. 'brain-gcd' для старта игры.
+- Определение простого числа. 'brain-prime' для старта игры.
 
 ### Пример игры:
 
-brain-progression
-
-Welcome to the Brain Game!
-
-What number is missing in this progression?
-
-May I have your name? Roman
-
-Hello, Roman!
-
-Question: 14 .. 18 20 22 24 26 28
-
-Your answer: 16 # Пользователь вводит ответ
-
-Correct!
-
-Question: 5 6 7 8 9 .. 11 12
-
-Your answer: 10 # Пользователь вводит ответ
-
-Correct!
-
-Question: 12 15 18 21 .. 27 30 33
-
-Your answer: 24 # Пользователь вводит ответ
-
-Correct!
-
-Congratulations, Roman!
+\```
+make brain-calc
+*Welcome to the Brain Games!*
+*May I have your name?* Andrey
+*Hello, Andrey!*
+*What is the result of the expression?*
+*Question: 21 + 61*
+*Your answer:* 82
+*Correct!*
+*Question: 54 - 3*
+*Your answer:* 51
+*Correct!*
+*Question: 19 + 46*
+*Your answer:* 65
+*Correct!*
+*Congratulations, Andrey!*
+\```
