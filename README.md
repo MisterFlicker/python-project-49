@@ -12,18 +12,24 @@ https://asciinema.org/a/odVoYf2lH6sRvPaRT2siDErA7
 
 - Калькулятор. Арифметические выражения, которые необходимо вычислить
 - Прогрессия. Поиск пропущенных чисел в последовательности чисел
-Определение четного числа
-Определение наибольшего общего делителя
-Определение простого числа
+- Определение четного числа
+- Определение наибольшего общего делителя
+- Определение простого числа
 
 Пример игры:
 
 brain-progression
+
 Welcome to the Brain Game!
+
 What number is missing in this progression?
+
 May I have your name? Roman
+
 Hello, Roman!
+
 Question: 14 .. 18 20 22 24 26 28
+
 Your answer: 16 # Пользователь вводит ответ
 Correct!
 Question: 5 6 7 8 9 .. 11 12
