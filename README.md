@@ -8,6 +8,7 @@
 - https://asciinema.org/a/odVoYf2lH6sRvPaRT2siDErA7
 
 **Description:**
+
 Игры:
 
 - Калькулятор. Арифметические выражения, которые необходимо вычислить
