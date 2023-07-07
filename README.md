@@ -9,15 +9,15 @@
 
 ## Description
 
-### Игры:
+### Games:
 
-- Калькулятор. Арифметические выражения, которые необходимо вычислить. 'make brain-calc' для старта игры.
-- Прогрессия. Поиск пропущенных чисел в последовательности чисел. 'make brain-progression' для старта игры.
-- Определение четного числа. 'brain-even' для старта игры.
-- Определение наибольшего общего делителя. 'brain-gcd' для старта игры.
-- Определение простого числа. 'brain-prime' для старта игры.
+- Calculator. Arithmetic expressions to be evaluated. Start command: make brain-calc
+- Progression. Search for missing numbers in a sequence of numbers. Start command: make brain-progression
+- Definition of an even number. Start command: make brain-even
+- Determining the greatest common divisor. Start command: make brain-gcd
+- Definition of a prime number. Start command: make brain-prime
 
-### Пример игры:
+### Example:
 
 
 make brain-calc  
