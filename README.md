@@ -17,17 +17,17 @@ Mind Games is a set of five console games. Each game asks questions that need to
 ### Example:
 ```
 make brain-calc  
-*Welcome to the Brain Games!*  
-*May I have your name?* **Andrey**  
-*Hello, Andrey!*  
-*What is the result of the expression?*  
-*Question: 21 + 61*  
-*Your answer:* **82**  
-*Correct!*  
-*Question: 54 - 3*  
-*Your answer:* **51**  
-*Correct!*  
-*Question: 19 + 46*  
+Welcome to the Brain Games!  
+May I have your name? Andrey  
+Hello, Andrey!  
+What is the result of the expression?  
+Question: 21 + 61  
+Your answer: 82  
+Correct!  
+Question: 54 - 3  
+Your answer: 51  
+Correct!  
+Question: 19 + 46
 *Your answer:* **65**  
 *Correct!*  
 *Congratulations, Andrey!*  
