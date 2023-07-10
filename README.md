@@ -30,7 +30,7 @@ Start command: **make brain-gcd**
 **Definition of a prime number**.  
 Start command: **make brain-prime**
 
-Example
+Example  
 [![asciicast](https://asciinema.org/a/595872.svg)](https://asciinema.org/a/595872)
 
 Example of incorrect answer in game
