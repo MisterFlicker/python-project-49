@@ -27,11 +27,11 @@ Search for missing numbers in a sequence of numbers. Start command: **make brain
 Start command: **make brain-even**
 [![asciicast](https://asciinema.org/a/595875.svg)](https://asciinema.org/a/595875)
 
-**Determining the greatest common divisor**.
+**Determining the greatest common divisor**.  
 Start command: **make brain-gcd**
 [![asciicast](https://asciinema.org/a/595876.svg)](https://asciinema.org/a/595876)
 
-**Definition of a prime number**.
+**Definition of a prime number**.  
 Start command: **make brain-prime**
 [![asciicast](https://asciinema.org/a/595877.svg)](https://asciinema.org/a/595877)
 
