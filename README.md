@@ -33,6 +33,6 @@ Start command: **make brain-prime**
 Example  
 [![asciicast](https://asciinema.org/a/595872.svg)](https://asciinema.org/a/595872)
 
-Example of incorrect answer in game
+Example of incorrect answer in game  
 [![asciicast](https://asciinema.org/a/595878.svg)](https://asciinema.org/a/595878)
 
