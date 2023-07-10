@@ -3,6 +3,9 @@
 
 ## Description
 
+About
+Mind Games is a set of five console games. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered to be completed. Wrong answers end the game and offer to play it again.
+
 ### Games:
 
 - Calculator. Arithmetic expressions to be evaluated. Start command: make brain-calc
@@ -12,8 +15,7 @@
 - Definition of a prime number. Start command: make brain-prime
 
 ### Example:
-
-
+```
 make brain-calc  
 *Welcome to the Brain Games!*  
 *May I have your name?* **Andrey**  
@@ -29,3 +31,4 @@ make brain-calc
 *Your answer:* **65**  
 *Correct!*  
 *Congratulations, Andrey!*  
+```
