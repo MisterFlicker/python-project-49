@@ -3,7 +3,6 @@
 
 ## Description
 
-About
 Mind Games is a set of five console games. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered to be completed. Wrong answers end the game and offer to play it again.
 
 ## Installing
