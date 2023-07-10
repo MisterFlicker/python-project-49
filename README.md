@@ -15,19 +15,19 @@ To package install use: make package-install
 
 ## Games
 
-**Calculator**.  
+- **Calculator**.  
 Arithmetic expressions to be evaluated. Start command: **make brain-calc**
 
-**Progression**.  
+- **Progression**.  
 Search for missing numbers in a sequence of numbers. Start command: **make brain-progression**
 
-**Definition of an even number**.  
+- **Definition of an even number**.  
 Start command: **make brain-even**
 
-**Determining the greatest common divisor**.  
+- **Determining the greatest common divisor**.  
 Start command: **make brain-gcd**
 
-**Definition of a prime number**.  
+- **Definition of a prime number**.  
 Start command: **make brain-prime**
 
 Example  
